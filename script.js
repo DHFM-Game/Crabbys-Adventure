@@ -706,7 +706,7 @@ function showPlayAgainButton() {
             
             <!-- Happy Crab Illustration -->
             <div class="text-center mb-6">
-                <img src='./assets/happy.png' class='h-[200px] w-[200px] mx-auto'/>
+                <img src='assets/happy.png' class='h-[200px] w-[200px] mx-auto'/>
             </div>
             
             <!-- Title -->
@@ -802,7 +802,7 @@ function resetBeachItems() {
             "
       >
         <img
-          src="./assets/firstmodule/can.png"
+          src="assets/firstmodule/can.png"
           draggable="false"
           class="h-12 w-12 rotate-[27.44deg]"
           alt=""
@@ -850,7 +850,7 @@ function resetBeachItems() {
             "
       >
         <img
-          src="./assets/firstmodule/diaper.png"
+          src="assets/firstmodule/diaper.png"
           draggable="false"
           class="h-12 w-12"
           alt=""
@@ -866,7 +866,7 @@ function resetBeachItems() {
             "
       >
         <img
-          src="./assets/firstmodule/fishbone.png"
+          src="assets/firstmodule/fishbone.png"
           draggable="false"
           class="h-12 w-12"
           alt=""
@@ -881,7 +881,7 @@ function resetBeachItems() {
             "
       >
         <img
-          src="./assets/firstmodule/apple.png"
+          src="assets/firstmodule/apple.png"
           draggable="false"
           class="h-12 w-12"
           alt=""
@@ -897,7 +897,7 @@ function resetBeachItems() {
             "
       >
         <img
-          src="./assets/firstmodule/carrot.png"
+          src="assets/firstmodule/carrot.png"
           draggable="false"
           class="h-12 w-12"
           alt=""
@@ -913,7 +913,7 @@ function resetBeachItems() {
             "
       >
         <img
-          src="./assets/firstmodule/banana.png"
+          src="assets/firstmodule/banana.png"
           draggable="false"
           class="h-12 w-12"
           alt=""
@@ -929,7 +929,7 @@ function resetBeachItems() {
             "
       >
         <img
-          src="./assets/firstmodule/feder.png"
+          src="assets/firstmodule/feder.png"
           draggable="false"
           class="h-12 w-12"
           alt=""
@@ -943,7 +943,7 @@ function resetBeachItems() {
         data-fact="Candy Wrapper (plastic or foil): Can last 10–20 years and might never fully go away."
       >
         <img
-          src="./assets/firstmodule/toffee.png"
+          src="assets/firstmodule/toffee.png"
           draggable="false"
           class="h-12 w-12"
           alt=""
@@ -958,7 +958,7 @@ function resetBeachItems() {
             "
       >
         <img
-          src="./assets/firstmodule/paper.png"
+          src="assets/firstmodule/paper.png"
           draggable="false"
           class="h-12 w-12"
           alt=""
@@ -973,7 +973,7 @@ function resetBeachItems() {
             "
       >
         <img
-          src="./assets/firstmodule/bottle.png"
+          src="assets/firstmodule/bottle.png"
           draggable="false"
           class="h-12 w-12"
           alt=""
@@ -1060,7 +1060,7 @@ function showResetConfirmationModal() {
             
             <!-- Worried Crab Illustration -->
             <div class="text-center mb-6">
-                <img src='./assets/sad.png' class='h-[200px] w-[200px] mx-auto'/>
+                <img src='assets/sad.png' class='h-[200px] w-[200px] mx-auto'/>
             </div>
             
             <!-- Title -->
@@ -1457,7 +1457,7 @@ function showReefResetConfirmationModal() {
             
             <!-- Worried Crab Illustration -->
             <div class="text-center mb-6">
-                <img src='./assets/sad.png' class='h-[200px] w-[200px] mx-auto'/>
+                <img src='assets/sad.png' class='h-[200px] w-[200px] mx-auto'/>
             </div>
             
             <!-- Title -->
@@ -2324,7 +2324,7 @@ function showHurricaneResetConfirmationModal() {
             
             <!-- Worried Crab Illustration -->
             <div class="text-center mb-6">
-                <img src='./assets/sad.png' class='h-[200px] w-[200px] mx-auto'/>
+                <img src='assets/sad.png' class='h-[200px] w-[200px] mx-auto'/>
             </div>
             
             <!-- Title -->
